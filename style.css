@@ -1,0 +1,13 @@
+.resim{
+    width: 500px;
+    height: 300px;
+}
+
+.baslik{
+    display: flex
+}
+.mario{
+    width: 20px;
+    height: auto;
+}
+
